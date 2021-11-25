@@ -239,9 +239,9 @@ nav ul li a{
 }
 
 .service{
-    margin-left: 10%;
-    border: 1px black solid;
-    width: 450px;
+    margin-left: 5%;
+     width: 350px;
+    margin-bottom: 1%;
     
 }
 .service p{
@@ -252,12 +252,24 @@ nav ul li a{
     text-align: center;
     padding-bottom: 3%;
     font-size: 25px;
+    font-family: 'Oleo Script Swash Caps';
+    font-weight: 400;
 }
 #ppp{
     padding: 10px;
-    font-size: 19px;
-    line-height: 20px;
+    font-size: 18px;
+    line-height: 29px;
 }
+.serv{
+    display: flex;
+     padding-left: 10%;
+     padding-right: 10%;
+    flex-wrap: wrap;
+}
+
+ 
+
+
 
 
 
