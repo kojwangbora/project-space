@@ -239,10 +239,8 @@ nav ul li a{
 }
 
 .service{
-    margin-left: 4%;
     width: 400px;
-    margin-bottom: 1%;
-    border: 1px solid black;
+    margin-bottom: 4%;
     
 }
 .service p{
@@ -264,12 +262,81 @@ nav ul li a{
 .serv{
     display: flex;
     flex-wrap: wrap;
-    padding-right: 5%;
-    padding-left: 5%;
+     padding-left: 10%;
+     padding-right: 10%;
+     justify-content: space-evenly;
 
 }
+.listen{
+    background-image: url(photos/image.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    width: 100%;
+}
+.lisus{
+   text-align: center;
+   padding-top: 5%;
+   padding-bottom: 2%;
+    
+}
+.lisus h1{
+    padding-bottom: 30px;
+    font-family: 'Oleo Script Swash Caps';
+    color: white;
+    font-size: 40px;
+    font-weight: 400;
+}
+.lisus p{
+    line-height: 30px;
+    font-size: 24px;
+    color: white;
 
- 
+}
+.line::after{
+    content: '';
+    background: #E16520;
+    display: block;
+    margin: auto;
+    height: 4px;
+    margin-top: 20px;
+    width: 180px; 
+    margin-bottom: 3%;
+}
+.cust{
+    
+    width: 400px;
+    height: 500px;
+    background-color: white;
+
+}
+.cust p{
+    text-align: center;
+    padding-top: 20%;
+}
+#cutomer{
+    text-align: center;
+    padding-top: 5%;
+    line-height: 30px;
+    font-size: 20px;
+
+}
+#right{
+    padding-top: 5%;
+    color: #E16520;
+}
+.cust h2{
+    text-align: center;
+    padding-top: 5%;
+    font-family: 'Oleo Script Swash Caps';
+    font-weight: 400;
+}
+ .customers{
+     display: flex;
+     justify-content: space-evenly;
+     padding-right: 10%;
+     padding-left: 10%;
+ }
 
 
 
