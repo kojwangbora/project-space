@@ -239,14 +239,15 @@ nav ul li a{
 }
 
 .service{
-    margin-left: 5%;
-     width: 350px;
+    margin-left: 4%;
+    width: 400px;
     margin-bottom: 1%;
+    border: 1px solid black;
     
 }
 .service p{
     text-align: center;
-
+    
 }
 .service h2{
     text-align: center;
@@ -256,15 +257,16 @@ nav ul li a{
     font-weight: 400;
 }
 #ppp{
-    padding: 10px;
+    padding: px;
     font-size: 18px;
-    line-height: 29px;
+    line-height: 25px;
 }
 .serv{
     display: flex;
-     padding-left: 10%;
-     padding-right: 10%;
     flex-wrap: wrap;
+    padding-right: 5%;
+    padding-left: 5%;
+
 }
 
  
