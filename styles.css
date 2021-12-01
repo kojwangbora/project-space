@@ -337,8 +337,103 @@ nav ul li a{
      padding-right: 10%;
      padding-left: 10%;
  }
+ .table{
+     text-align: center;
+     padding-top: 5%;
+ }
+ .table h1{
+     font-size: 50px;
+     padding-bottom: 15px;
+     font-family: 'Oleo Script Swash Caps';
+     font-weight: 400;
 
+ }
+ .table p{
+     font-size: 20px;
+     line-height: 30px;
 
+ }
+ .table p::after{
+    content: '';
+    background: #E16520;
+    display: block;
+    margin: auto;
+    height: 4px;
+    margin-top: 20px;
+    width: 180px; 
+    margin-bottom: 3%;
+}
+.bform{
+    text-align: center;
+}
+#yourname{
+    height: 50px;
+    width: 70%;
+    margin-bottom: 30px;
+    background-color: #c4c4c2;
+    border: none;
+}
+#youremail{
+    height: 50px;
+    width: 70%;
+    background-color: #c4c4c2;
+    border: none;
+ }
+.fmrow{
+    font-size: 24px;
+    margin-top: 30px;
+    
+}
+#phone{
+    height: 50px;
+    width: 38%;
+    margin-right: 30px;
+    background-color: #c4c4c2;
+    border: none;
+}
+#nf-persons{
+    height: 50px;
+    width: 30%;
+    background-color: #c4c4c2;
+    border: none;
+}
+#date{
+    height: 50px;
+    width: 38%;
+    margin-right: 30px;
+    background-color: #c4c4c2;
+    border: none;
+}
+#time{
+    height: 50px;
+    width: 30%;
+    background-color: #c4c4c2;
+    border: none;
+}
+.ndfmrw{
+    font-size: 24px;
+    margin-top: 30px;
+    
+}
+#msg{
+    height: 200px;
+    width: 70%;
+    margin-top: 30px; 
+    background-color: #c4c4c2;
+    border: none;
+}
+#table{
+    margin-top: 2%;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 25px 25px 25px 25px;
+    background-color: #E16520;
+    color: white;
+    border: none;
+}
 
 
 
