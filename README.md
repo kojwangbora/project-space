@@ -10,7 +10,7 @@ This a user friendly website that allows customers to order thier meails are the
 * a phone/computer/tablet/ipad
 * An internet
 ## Installation Process
-please click on the link to view my website: https://kojwangbora.github.io/letuce-eat/
+please click on the link to view my website:
 ## Known Bugs
 no known bugs
 ## Technologies Used
