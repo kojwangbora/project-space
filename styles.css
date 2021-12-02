@@ -477,11 +477,7 @@ color: white;
     width: 100px; 
     margin-bottom: 3%;
 }
-.log{
-   
-    /* width: 400px; */
-
-}
+ 
 .log h2{
     font-size: 30px;
     font-family: 'Oleo Script Swash Caps';
@@ -533,6 +529,34 @@ color: white;
     font-size: 30px;
     color: white;
 }
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: rgb(37, 36, 36);
+}
+footer p{
+    font-size: 24px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: white;
+    
+}
+ul li{
+    display: inline-block;
+    font-size: 24px;
+    color: white;
+    padding-left: 15px;
+}
+
+ul{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    justify-content: space-evenly;
+}
+ 
 
 
 
