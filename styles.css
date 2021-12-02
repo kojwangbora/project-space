@@ -433,7 +433,111 @@ nav ul li a{
     background-color: #E16520;
     color: white;
     border: none;
+    margin-bottom: 7%;
 }
+.numbers{
+    padding-left: 10%;
+    padding-right: 10%;
+    display: flex;
+    justify-content: space-evenly;
+    background-image: url(photos/istockphoto-1240080543-1024x1024.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    
+}
+
+.svd{
+    width: 200px;
+    margin-bottom: 15%;
+    margin-top: 10%;
+}
+.svd h2{
+font-size: 35px;
+padding-bottom: 5%;
+font-family: 'Oleo Script Swash Caps';
+font-weight: 400;
+text-align: center;
+color: white;
+}
+.svd p{
+    font-size: 24px;
+    padding-bottom: 5%;
+    text-align: center;
+    color: white;
+     
+}
+.svd p::after{
+    content: '';
+    background: #E16520;
+    display: block;
+    margin: auto;
+    height: 3px;
+    margin-top: 20px;
+    width: 100px; 
+    margin-bottom: 3%;
+}
+.log{
+   
+    /* width: 400px; */
+
+}
+.log h2{
+    font-size: 30px;
+    font-family: 'Oleo Script Swash Caps';
+    font-weight: 400;
+    padding-bottom: 5%;
+    color: white;
+   
+    
+}
+.mini-footer{
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    background-color: rgb(58, 56, 56);
+}
+#sait{
+    height: 50px;
+    width: 400px;
+    margin-bottom: 10px;
+    border: none;
+    background-color: dimgray;
+    color: white 30px;
+    margin-top: 4%;
+}
+#virg{
+    height: 50px;
+    width: 400px;
+    background-color: #E16520;
+    border: none;
+    color: white;
+}
+#it{
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 4%;
+    color: white;
+}
+.log p{
+    font-size: 25px;
+    line-height: 30px;
+    margin-top: 4%;
+    color: white;
+}
+.log-1 h2{
+    margin-bottom: 15%;
+    font-size: 30px;
+    color: white;
+}
+
+
+
+
+
 
 
 
